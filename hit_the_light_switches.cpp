@@ -1,5 +1,7 @@
 //BISMILLAH
 //RABBI ZIDNI ILMA
+//I tried to solve this problem using topological indegree concept and dfs
+//HAPPY CODING
 #include <bits/stdc++.h>
 using namespace std;
 #define sz 10009
